@@ -30,7 +30,7 @@ export const Contact = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setButtonText("Sending...");
-    let response = await fetch("http://localhost:3000/contact/", {
+    let response = await fetch("https://github.com/nctasli/my-project/db.json", {
       method: "POST",
       headers: {
         "Content-Type": "application/json;charset=utf-8",
