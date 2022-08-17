@@ -16,8 +16,8 @@ export const Footer = () => {
           </Col>
           <Col size={12} sm={6} className="text-center text-sm-end">
             <div className="social-icon">
-              <a href="https://api.whatsapp.com/send?phone=+905556155387"><img src={navIcon1} alt="whatsapp" /></a>
-              <a href="https://www.instagram.com/kutuksan/"><img src={navIcon3} alt="instagram" /></a>
+              <a href="https://api.whatsapp.com/send?phone=+905416585460"><img src={navIcon1} alt="whatsapp" /></a>
+              <a href="https://www.instagram.com/"><img src={navIcon3} alt="instagram" /></a>
               <a href="https://www.linkedin.com/in/necati-can-ta%C5%9Fl%C4%B1-09802b236/"><img src={navIcon2} alt="linkedin" /></a>
             </div>
             <p>Copyright 2022. All Rights Reserved</p>
